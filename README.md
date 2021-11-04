@@ -12,7 +12,7 @@
 </p>
 
 ## `Deploy`
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JINN-SER/jinn-ser-ofc/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/JINN-SER/wabot-aq/)
 <h3 align="center">𝑴𝒂𝒅𝒆 𝑾𝒊𝒕𝒉 𝑱𝒊𝒏𝒏𝑺𝒆𝒓</h3>
 <p align="center">
   <a href="https://github.com/JINN-SER"><img src="https://i.imgur.com/X8MUqgj.jpeg" height="128" width="128" /></a>
@@ -48,8 +48,8 @@
 # Installation
 ## For Windows
 ```bash
-git clone https://github.com/JINN-SER/jinn-sir-ofc
-cd jinn-ser-ofc
+git clone https://github.com/JINN-SER/wabot-aq
+cd wabot-aq
 npm install
 node main.js
 ```
@@ -58,9 +58,9 @@ node main.js
 apt update && apt upgrade
 pkg update && pkg upgrade
 pkg install git
-git clone https://github.com/JINN-SER/jinn-ser-ofc
+git clone https://github.com/JINN-SER/wabot-aq
 ls
-cd jinn-sir-ofc
+cd wabot-aq
 npm i -g npm@6.14.14
 npm install
 npm audit
